@@ -172,7 +172,7 @@ int main(int argc, char *argv[])
 			}
 		}*/
 
-		_sleep(50);
+		SDL_Delay(50);
 	}
 
 	delete oSDL;
