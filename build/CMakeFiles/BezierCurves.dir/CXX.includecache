@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paul/Repositories/Bezier Curves/src/geometry.cpp
+geometry.h
+/home/paul/Repositories/Bezier Curves/src/geometry.h
+
+/home/paul/Repositories/Bezier Curves/src/geometry.h
+main.h
+/home/paul/Repositories/Bezier Curves/src/main.h
+
+/home/paul/Repositories/Bezier Curves/src/graphics.cpp
+graphics.h
+/home/paul/Repositories/Bezier Curves/src/graphics.h
+
+/home/paul/Repositories/Bezier Curves/src/graphics.h
+main.h
+/home/paul/Repositories/Bezier Curves/src/main.h
+
+/home/paul/Repositories/Bezier Curves/src/main.cpp
+main.h
+/home/paul/Repositories/Bezier Curves/src/main.h
+
+/home/paul/Repositories/Bezier Curves/src/main.h
+iostream
+-
+SDL2/SDL.h
+-
+graphics.h
+/home/paul/Repositories/Bezier Curves/src/graphics.h
+geometry.h
+/home/paul/Repositories/Bezier Curves/src/geometry.h
+

@@ -1,0 +1,3 @@
+/home/paul/Repositories/Bezier Curves/build/CMakeFiles/rebuild_cache.dir
+/home/paul/Repositories/Bezier Curves/build/CMakeFiles/edit_cache.dir
+/home/paul/Repositories/Bezier Curves/build/CMakeFiles/BezierCurves.dir
